@@ -32,6 +32,7 @@ def summarize_table( table_text, max_new_tokens=100, num_return_sequences=1):
         "Identify financial risks and provide strategies to mitigate them in a crisis"
     )
 
+
     # response = llm_pipeline(prompt, max_new_tokens=max_new_tokens, num_return_sequences=num_return_sequences) #Use This if you run LLM model locally
     # summary = response[0]['generated_text']
 
