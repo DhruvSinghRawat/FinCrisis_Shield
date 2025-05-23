@@ -14,7 +14,7 @@ import base64
 def main():
     # Set page configuration
     st.set_page_config(
-        page_title="📄 PDF Table Extraction & Summarization",
+        page_title="📄 FinCrisis Shield: Strategies to mitigate Finacial Crisis",
         layout="wide",
         page_icon="📈",
     )
@@ -182,7 +182,7 @@ def main():
     # Update the header with container
     st.markdown("""
         <div class="header-container">
-            <h1 class="header">📄 PDF Table Extraction and Summarization</h1>
+            <h1 class="header">📄 FinCrisis Shield: Strategies to mitigate Finacial Crisis</h1>
         </div>
     """, unsafe_allow_html=True)
     
