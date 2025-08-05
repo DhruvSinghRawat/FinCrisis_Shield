@@ -1,6 +1,6 @@
-# 📄 PDF Table Extraction & Summarization
+# 📄 FinCrisis Shield
 
-Welcome to the **PDF Table Extraction & Summarization** project! This application allows you to effortlessly upload PDF documents, extract tables from them, and generate concise summaries using advanced AI models. Built with Streamlit, this tool offers a seamless and interactive user experience.
+Welcome to the **FinCrisis Shield** project! This application allows you to effortlessly upload PDF documents, extract tables from them, find financial risks, provide stater gies to mitigate the Crisis and generate concise summaries using advanced AI models. Built with Streamlit, this tool offers a seamless and interactive user experience.
 
 ## 🚀 Features
 
@@ -269,3 +269,4 @@ For any inquiries or feedback, please reach out to [Dhruv Singh Rawat](dhruvsing
   <img src="https://img.icons8.com/color/48/000000/table.png" alt="Table Icon" /> 
 <!--   <img src="https://img.icons8.com/color/48/000000/summarize.png" alt="Summarization Icon" /> -->
 </div>
+
